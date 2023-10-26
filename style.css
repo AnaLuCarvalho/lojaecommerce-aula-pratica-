@@ -206,12 +206,4 @@ td {
     font-weight: 400px;
     color: #ffffff;
     display: flex;
-    }
-
-    @media (max-width: 768px) {
-    }
-
-    @media (max-width: 480px) {
-
-    }
-    
+}  
