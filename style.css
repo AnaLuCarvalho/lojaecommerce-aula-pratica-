@@ -15,7 +15,7 @@ header{
 
     display: flex;
     justify-content: space-between;
-
+    align-items: center;
     color: #ffffff
 }
 
@@ -99,6 +99,10 @@ section h1, h2, h3, h4{
 
 #artigos-clientes h5{
     text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 .imgtati{
@@ -204,3 +208,10 @@ td {
     display: flex;
     }
 
+    @media (max-width: 768px) {
+    }
+
+    @media (max-width: 480px) {
+
+    }
+    
